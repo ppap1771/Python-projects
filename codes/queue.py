@@ -12,4 +12,9 @@ class Queue():
 
 
 q1 = Queue()
+q1.enqueue(2)
+q1.enqueue(3)
 
+
+
+print(q1.element)
